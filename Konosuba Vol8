@@ -1,0 +1,17 @@
+{
+  "title": "<Konosuab LN Vol 8>",
+  "description": "<Konosuab Light Novel>",
+  "artist": "<Kurone Mishima>",
+  "author": "<Natsume Akatsuki>",
+  "cover": "<https://i.imgur.com/IKg4RJq.png>",
+  "chapters": {
+    "<0>": {
+      "title": "<May There Be Honor for This Dragon>",
+      "volume": "<8>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<P6ipJUW>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
